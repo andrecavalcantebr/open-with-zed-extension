@@ -1,4 +1,8 @@
 #!/bin/sh
+# Copyright (C) 2026 Andre Cavalcante
+# SPDX-License-Identifier: GPL-3.0-only
+# See LICENSE for the full license text and warranty disclaimer.
+
 set -eu
 
 project_dir=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)

@@ -1,3 +1,7 @@
+# Copyright (C) 2026 Andre Cavalcante
+# SPDX-License-Identifier: GPL-3.0-only
+# See LICENSE for the full license text and warranty disclaimer.
+
 import os
 from pathlib import Path
 import subprocess

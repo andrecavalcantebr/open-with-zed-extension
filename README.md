@@ -124,3 +124,13 @@ tests/                Automated tests
 The initial source was imported from an existing local extension and its menu
 text was translated into English. API reference:
 [nautilus-python documentation](https://gnome.pages.gitlab.gnome.org/nautilus-python/).
+
+## License
+
+Copyright (C) 2026 Andre Cavalcante.
+
+This project is licensed under the GNU General Public License, version 3 only
+(`GPL-3.0-only`). See [LICENSE](LICENSE) for the full text.
+
+This program is distributed without any warranty; without even the implied
+warranty of merchantability or fitness for a particular purpose.
